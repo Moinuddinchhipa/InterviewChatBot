@@ -1,0 +1,11 @@
+question,response
+What is supervised learning?,Supervised learning is a type of machine learning where the model is trained on labeled data.
+What is unsupervised learning?,Unsupervised learning involves training a model on data without labels and discovering hidden patterns.
+Explain the difference between a Type I and Type II error.,"A Type I error is a false positive, while a Type II error is a false negative."
+What is a confusion matrix?,A confusion matrix is a table used to evaluate the performance of a classification model.
+Define precision and recall.,"Precision is the ratio of true positives to predicted positives, while recall is the ratio of true positives to actual positives."
+What is cross-validation in machine learning?,Cross-validation is a technique for assessing how well a model generalizes to new data by partitioning the data and training the model on different subsets.
+"What is overfitting, and how can you prevent it?","Overfitting happens when a model learns the training data too well, including noise. It can be prevented by techniques such as cross-validation or regularization."
+Explain the concept of a decision tree.,"A decision tree is a flowchart-like model used for decision making, where each internal node represents a test on an attribute."
+What is regularization in machine learning?,Regularization is a technique used to reduce model complexity and prevent overfitting by adding a penalty to the loss function.
+Explain the bias-variance tradeoff.,The bias-variance tradeoff is the balance between the error introduced by the model's assumptions (bias) and the error introduced by sensitivity to small fluctuations in the training set (variance).
